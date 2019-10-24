@@ -23,7 +23,7 @@ If you have _Docker_ within reach :whale: you can simply run the following comma
 
 After you have cloned down :arrow_down: this repository, you need to assure you have installed **RabbitMQ.Client** nuget package for both (**Consumer** and **Producer**) projects.
 
-Change the IP addresses in the code to the one your RabbitMQ instance is running at (normally it's _localhost_) - [ln12](https://github.com/elit0451/AdsAdvertisingMOM/blob/e1de1d524f19584f8fe50b2c1c9fd2f2154cf453/CarReservationMOMConsumer/Consumer.cs#L12) on Consumer and [ln12](https://github.com/elit0451/AdsAdvertisingMOM/blob/e1de1d524f19584f8fe50b2c1c9fd2f2154cf453/CarReservationMOMProducer/Producer.cs#L12) and Producer.
+Change the IP addresses in the code to the one your RabbitMQ instance is running at (normally it's _localhost_) - [ln12](https://github.com/elit0451/AdsAdvertisingMOM/blob/e1de1d524f19584f8fe50b2c1c9fd2f2154cf453/CarReservationMOMConsumer/Consumer.cs#L12) on Consumer and [ln12](https://github.com/elit0451/AdsAdvertisingMOM/blob/e1de1d524f19584f8fe50b2c1c9fd2f2154cf453/CarReservationMOMProducer/Producer.cs#L12) on Producer.
 
 Run instances of both and follow the on-screen instructions :calling: 
 
